@@ -3,7 +3,7 @@ Wordpress Websites
 
 WPSCAN full command:- 
 
-sudo wpscan --url https://cogniron.com/ -e at,ap,cb,dbe --api-token rzp6gVsU35jbCTQM6xdJ5204r7Vs5iaYbKHXRCmyDf4 --rua --force
+sudo wpscan --url https://yourtargetdomain.com/ -e at,ap,cb,dbe --api-token rzp6gVsU35jbCTQM6xdJ5204r7Vs5iaYbKHXRCmyDf4 --rua --force
 
 
 # CVE-2022-29455
